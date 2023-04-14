@@ -228,3 +228,5 @@ local minions, mod = ...
 #spectre Metadata/Monsters/LeagueDelve/GhostEncounter/Wraith # DelveMonsterEnfeebleOnHit
 -- Forged Frostbearer
 #spectre Metadata/Monsters/LeagueCrucible/Cold/Pyromaniac
+-- Forged Void Crawler
+#spectre Metadata/Monsters/LeagueCrucible/Chaos/SkeletonCannon
