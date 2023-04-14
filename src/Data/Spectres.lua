@@ -3430,3 +3430,27 @@ minions["Metadata/Monsters/LeagueCrucible/Cold/Pyromaniac"] = {
 		-- MonsterNoMapDrops [monster_no_map_drops = 1]
 	},
 }
+-- Forged Void Crawler
+minions["Metadata/Monsters/LeagueCrucible/Chaos/SkeletonCannon"] = {
+	name = "Forged Void Crawler",
+	life = 2.88,
+	armour = 0.25,
+	fireResist = 0,
+	coldResist = 0,
+	lightningResist = 0,
+	chaosResist = 75,
+	damage = 0.9,
+	damageSpread = 0.2,
+	attackTime = 1.8,
+	attackRange = 12,
+	accuracy = 1,
+	skillList = {
+		"MMSCrucibleSkeletonCannonChaosMortar",
+		"MeleeAtAnimationSpeedChaos",
+		"MMSCrucibleSkeletonCannonChaosMortarBasic",
+	},
+	modList = {
+		-- MonsterNecromancerRaisable [undead_description = 1]
+		-- MonsterNoMapDrops [monster_no_map_drops = 1]
+	},
+}

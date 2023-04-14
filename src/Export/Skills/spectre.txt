@@ -1249,6 +1249,6 @@ skills["MonsterVulnerabilityOnHit1"] = {
 #flags attack projectile melee
 #mods
 
-#skill MMSCrucibleSkeletonCannonChaosMortarBasic Big Chaos Mortar
+#skill MMSCrucibleSkeletonCannonChaosMortarBasic Default Chaos Mortar
 #flags area spell projectile
 #mods
